@@ -1,20 +1,21 @@
-<!DOCTYPE html>>
-<html>
+<!DOCTYPE HTML>>
+<HTML>
 
-<head>
-<title>MASTER WEB</title>
-<body>
-
-<!DOCTYPE html PUBLIC "" ""><HTML><HEAD><META content="IE=11.0000" 
+<HEAD>
+<BODY>
+<BODY BGCOLOR= "INDIGO,YELLO AND BROWN">
+<title>MASTER WEB DESIGN</title>
+<h2>WELCOME TO MY CHANNEL</h2>
+<p><h1>GRAPHIC DESIGN MASTER CLASS</P></h1>
+</BODY>
 http-equiv="X-UA-Compatible">
-<BODY BGCOLOR= "INDIGO,YELLO AND BROWE"> 
+<BODY BGCOLOR= "BLUE,GREEN AND ORANGE"> 
 <META http-equiv="Content-Type" content="text/html; charset=windows-1252">
-<META name="GENERATOR" content="MSHTML 11.00.10570.1001"></HEAD>
-<BODY>&gt;GRAPHICS DEIGN <TITLE>Graphics Design</TITLE> 
+<META name="GENERATOR" content="MSHTML 11.00.10570.1001"></HEAD> 
 <CENTER>
 
-<P>HELLO WELCOME TO MY CHANNEL.</P><IMG width="460" height="305" src="Graphics%20Design_files/1245.jpeg"> 
-<H2>WHAT YOU WILL BE LEARNING ARE AS FOLLOWS:</H2>
+<P><IMG width="460" height="305" src="IMAGE1.HTML"></P> 
+<H2>WHAT YOU WILL BE LEARNING ARE:</H2>
 <p>1. HOW TO DESIGN A FLYER, ID CARD,ETC.</P>
 <P>2. HOW TO CREATE A LOGO</P>
 <P>3. COLOR CHANNEL IMAGERY</P>
@@ -23,16 +24,11 @@ http-equiv="X-UA-Compatible">
 <P>6. MAGAZINE AND BOOKS</P>
 <P>7. LOGO CONCEPT WITH ADOBE ILLUSTRATION</P>
 <P>8. FONT DESIGN ILLUSTRATION ETC.</P>
-<P></P></CENTER></BODY></HTML>
-
-<h2>WELCOME TO MY CHANNEL</h2>
-<center>
-<p><h1>GRAPHIC DESIGN MASTER CLASS</P></h1>
 
 <p><a href="https://www.amazon.com/"target="_blank">AMAZON.</a</p>
   <p><a href="https://www.google.com/"target="_blank">GOOGLE.</a</p>
 
-<p><img src="image1.html"></p>
+<P><IMG width="460" height="305" src="IMAGE1.HTML"></P>
 
 <p>Here is a video!</p>
 <p>Account ID: 2218-8012-9065</p>
@@ -44,10 +40,10 @@ http-equiv="X-UA-Compatible">
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3964.173581625062!2d3.308406900000011!3d6.499696900000015!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x103b8f65ed486993%3A0xff463f922e314fd9!2sFemex%20Team%20limited!5e0!3m2!1sen!2sng!4v1663288575470!5m2!1sen!2sng" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 <p><a>click here for more information<a href="links.html">links</a></p> 
-</center>
+</CENTER>
 
 
 
-
+</HEAD>
 </body>
 </html>
