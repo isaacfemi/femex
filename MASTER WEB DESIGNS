@@ -8,6 +8,13 @@
 <h2>WELCOME TO MY CHANNEL</h2>
 <p><h1>GRAPHIC DESIGN MASTER CLASS</P></h1>
 </BODY>
+<body> 
+<font face = sans-serif size = 8> Welcome to HTML </font> 
+<br> 
+<font face = roboto size = 6> Welcome to HTML </font> 
+<br> 
+<font face = arial size = 4> Welcome to HTML </font> 
+</body> 
 http-equiv="X-UA-Compatible">
 <BODY BGCOLOR= "BLUE,GREEN AND ORANGE"> 
 <META http-equiv="Content-Type" content="text/html; charset=windows-1252">
